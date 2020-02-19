@@ -1,0 +1,55 @@
+.header {
+	font-size: 30px;
+	background-color: #340675;
+	color: #ffffff;
+	text-align: center;
+	padding: 20px
+}
+.header p {
+	word-spacing: 15px;
+}
+
+.main {
+	margin-right: 120px;
+	margin-top: 60px;
+	margin-left: 120px;
+	font-size: 35px;
+	font-family: Times New Roman;
+}
+
+.contents-item h3 {
+	background-color: #340675;
+	color: #ffffff;
+	padding: 10px;
+}
+
+.btn {
+  padding: 12px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 8px;
+}
+
+.btn:hover {
+	opacity: 1;
+}
+
+.footer {
+	background-color: #340675;
+	color: #ffffff;
+	padding: 45px; 
+}
+
+.footer-logo {
+	float: left;
+}
+
+.footer p {
+	text-align: center;
+}
+
+.footer-list {
+	float: right;
+	font-size: 25px;
+}
